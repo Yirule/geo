@@ -1,0 +1,7 @@
+PROJCS["ZELI-B",
+   LOCAL_CS["zeliB"],
+   PROJECTION["Equidistant_Cylindrical"],
+     PARAMETER["central_meridian",0],
+     PARAMETER["false_easting",0],
+     PARAMETER["false_northing",0]
+]
