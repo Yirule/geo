@@ -37,11 +37,12 @@
 
 ### 좌표 변환
 - `Transformation settings` > `Type of input` > `Indentical Points` 선택
-- 드롭다운 > `2 point (Helmert)` 선택
+- 드롭다운 > `3 point (GeoRef)` 선택
 - 값 입력
     - 원본 X, 원본 Y, 대상 X, 대상 Y
     - 0, 2160, 0, 90
     - 1920, 0, 180, -90
+    - 0, 0, 0, -90
 - `Import`
 ### 도형 오류 확인
 - 참조: https://urbn-ds.tistory.com/24
