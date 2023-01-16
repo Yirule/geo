@@ -8,6 +8,8 @@
     - `Material Type`: Colorset
     - `Colorset`: Earth
     - `Auto-range Colorset`: ✔️
+- `Modify` > `Resampling`
+    - `Presets`: `200%`
 - `Modify` > `Clamp`
     - `Low Altitude`: 15
 - `Modify` > `Altitude Bottom`
